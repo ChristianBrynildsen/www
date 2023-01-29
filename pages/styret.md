@@ -34,9 +34,9 @@ permalink: "/om/styret/"
 
  <div class="medium-6 columns b20">
   <!--<img src="/images/Jonas.jpeg" height="200" alt="" />-->
-   Sigve Ravn Fjeld-Eiken - Utleieansvarlig 
+   Magnus Olsen Kallar - Utleieansvarlig 
    <p>
-<a class="btn text-center btn--info" rel="external" href="mailto:&#100;&#106;&#045;&#115;&#106;&#101;&#102;&#064;&#114;&#102;&#114;&#101;&#103;&#105;&#046;&#110;&#111;" title="DJ-Sjef"> DJ-Sjef[at]rfregi.no <i class="fas fa-fw fa-envelope"></i> </a>
+<a class="btn text-center btn--info" rel="external" href="mailto:&#100;&#106;&#045;&#115;&#106;&#101;&#102;&#064;&#114;&#102;&#114;&#101;&#103;&#105;&#046;&#110;&#111;" title="DJ-Sjef"> Utleie[at]rfregi.no <i class="fas fa-fw fa-envelope"></i> </a>
    </p>
  </div><!-- /.medium-6.columns -->
 
